@@ -1,7 +1,7 @@
 import React from 'react'
 import Container from '../Container'
 import Flex from '../Flex'
-import Image from '../image'
+import Image from '../Image'
 import Logo from '../../assets/Logo.png'
 import Button from '../Button'
 
