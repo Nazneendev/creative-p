@@ -3,7 +3,7 @@ import Container from './Container'
 import Heading from './Heading'
 
 import Flex from './Flex'
-import ServiceOneIcon from './icons/serviceOneIcon'
+import ServiceOneIcon from './icons/ServiceOneIcon'
 import ServiceTwo from './icons/ServiceTwo'
 import ServiceThreeIcon from './icons/ServiceThreeIcon'
 
