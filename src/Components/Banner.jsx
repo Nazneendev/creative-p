@@ -2,7 +2,7 @@ import React from 'react'
 import Container from './Container'
 import Flex from './Flex'
 import Button from './Button'
-import Image from './image'
+import Image from './Image'
 import illu from '../assets/illu.png'
 
 
