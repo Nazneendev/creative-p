@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "./Container";
 import Flex from "./Flex";
-import Image from "./image";
+import Image from "./Image";
 import crt from "../assets/images/Group 2.png";
 import Heading from "./Heading";
 import ft from "../assets/images/Group 9969.png";

@@ -2,7 +2,7 @@ import React from 'react'
 import Container from './Container'
 import Heading from './Heading'
 import Flex from './Flex'
-import Image from './image'
+import Image from './Image'
 import r1 from "../assets/images/Review 1.png"
 import r2 from "../assets/images/Review 2.png"
 import r3 from "../assets/images/Review 3.png"
